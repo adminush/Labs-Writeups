@@ -1,5 +1,5 @@
 # SkyTower: 1 - Writeup
-[![](https://img.shields.io/badge/-linux_machine-e67e00?style=for-the-badge&logo=linux&logoColor=white)]
+![](https://img.shields.io/badge/-linux_machine-e67e00?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Start](https://github.com/adminush/Labs-Writeups/assets/58698274/a3ed2a1a-d05b-4c9f-937c-cd5d744c530c)
 
