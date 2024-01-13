@@ -1,4 +1,5 @@
 # DC: 6 - Writeup
+![](https://img.shields.io/badge/-linux_machine-e67e00?style=for-the-badge&logo=linux&logoColor=white)
 
 ![start](https://github.com/adminush/Labs-Writeups/assets/58698274/23daeaad-f3de-4a95-aacc-7b040e412e39)
 
