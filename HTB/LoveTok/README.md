@@ -1,5 +1,5 @@
 # LoveTok - Writeup
-![](https://img.shields.io/badge/web_challenge-htb-28b84f?style=for-the-badge&logo=php&logoColor=white)]()
+![](https://img.shields.io/badge/web_challenge-htb-28b84f?style=for-the-badge&logo=php&logoColor=white)
 
 ![start](https://github.com/adminush/Labs-Writeups/assets/58698274/834cd36b-f3f2-4f1b-b90f-c50a5f85eafa)
 
