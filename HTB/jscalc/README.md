@@ -1,5 +1,5 @@
 # jscalc - Writeup
-![](https://img.shields.io/badge/web_challenge-htb-28b84f?style=for-the-badge&logo=js&logoColor=white)
+![](https://img.shields.io/badge/web_challenge-htb-28b84f?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![start](https://github.com/adminush/Labs-Writeups/assets/58698274/40c71e0d-6578-492e-8031-1d342070e56d)
 
